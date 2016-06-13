@@ -1,0 +1,14 @@
+.exampleone {
+  background-color: pink;
+  color: black;
+}
+
+.exampletwo {
+  background-color: black;
+  color: pink;
+}
+.examplethree {
+  background-color: tan;
+  color: black;
+  text-align: left;
+}
