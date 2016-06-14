@@ -1,14 +1,14 @@
-.exampleone {
-  background-color: pink;
-  color: black;
-}
-
-.exampletwo {
-  background-color: black;
-  color: pink;
-}
-.examplethree {
+.story {
   background-color: tan;
   color: black;
   text-align: left;
 }
+.jh {
+  background-color:black;
+  color: rgb(255,20,147);
+  text-align:center;
+  font-family:cursive;
+}
+.icc {
+  text-align:center;
+} //added this so I could center the ice cream cone
